@@ -1,0 +1,13 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: security-jwt
+  freemarker:
+    cache: false
+
+# https://blog.csdn.net/qq_36882793/article/details/102839333#httpsblogcsdnnetqq_36882793articledetails102869583_1180
+#logging:
+#  level:
+#    root: debug
